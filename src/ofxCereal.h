@@ -7,7 +7,7 @@
 
 #include <cereal/archives/binary.hpp>
 #include <cereal/archives/xml.hpp>
-#include <cereal/archives/json.hpp>
+#include <cereal/archives/cereal_json.hpp>
 
 #include <cereal/types/string.hpp>
 #include <cereal/types/vector.hpp>
